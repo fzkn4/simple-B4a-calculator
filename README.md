@@ -1,2 +1,2 @@
 # simple-calculator
-calculator for calculus.
+> I made a simple calculator using `B4A`. 
